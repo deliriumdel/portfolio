@@ -139,7 +139,7 @@
 
 ## 12 - [Анализ проведенного АВ-тестирования, запросы SQL, E-commerce, дашборд][project12]
 
-[project1]: http://link
+[project1]: https://github.com/deliriumdel/portfolio/tree/master/01_credit-scoring-preprocessing
 [project2]: http://link
 [project3]: http://link
 [project4]: http://link
