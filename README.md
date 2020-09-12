@@ -140,14 +140,14 @@
 ## 12 - [Анализ проведенного АВ-тестирования, запросы SQL, E-commerce, дашборд][project12]
 
 [project1]: https://github.com/deliriumdel/portfolio/tree/master/01_credit-scoring-preprocessing
-[project2]: http://link
-[project3]: http://link
-[project4]: http://link
-[project5]: http://link
-[project6]: http://link
-[project7]: http://link
-[project8]: http://link
-[project9]: http://link
+[project2]: https://github.com/deliriumdel/portfolio/tree/master/02_research-of-apartment-advertisements
+[project3]: https://github.com/deliriumdel/portfolio/tree/master/03_telecom
+[project4]: https://github.com/deliriumdel/portfolio/tree/master/04_e-commerce-games
+[project5]: https://github.com/deliriumdel/portfolio/tree/master/05_airline-analytics
+[project6]: https://github.com/deliriumdel/portfolio/tree/master/06_ticket_service-business-analysis
+[project7]: https://github.com/deliriumdel/portfolio/tree/master/07_e-commerce-a-b-testing
+[project8]: https://github.com/deliriumdel/portfolio/tree/master/08_restaurants-vizualization
+[project9]: https://github.com/deliriumdel/portfolio/tree/master/09_conversion%20funnel_and_AB
 [project10]: https://public.tableau.com/views/Dashboard_first_portfolio/Dashboard1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link
-[project11]: http://link
-[project12]: http://link
+[project11]: https://github.com/deliriumdel/portfolio/tree/master/11_ML
+[project12]: https://github.com/deliriumdel/portfolio/tree/master/12_AB_SQL_E-commerce_Dashboard
