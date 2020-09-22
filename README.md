@@ -137,7 +137,7 @@
 ### Проект 11: [Применение машинного обучения в прогнозировании оттока клиентов фитнес-центра][project11]
 Провести анализ и дать рекомендации, чтобы бороться с оттоком клиентов.
 
-## 12 - [Анализ проведенного АВ-тестирования, запросы SQL, E-commerce, дашборд][project12]
+### Проект 12 - [Анализ проведенного АВ-тестирования, запросы SQL, E-commerce, дашборд][project12]
 
 [project1]: https://github.com/deliriumdel/portfolio/tree/master/01_credit-scoring-preprocessing
 [project2]: https://github.com/deliriumdel/portfolio/tree/master/02_research-of-apartment-advertisements
