@@ -27,9 +27,9 @@
      </td>
      <td>
         <code>
-            pandas<br>
-            pymystem3<br>
-            Counter (from collections)
+            pandas,<br>
+            pymystem3,<br>
+            Counter (from collections).
         </code>
      </td>
     </tr>
@@ -48,8 +48,8 @@
      </td>
      <td>
         <code>
-            pandas<br>
-            matplotlib.pyplot<br><br>
+            pandas,<br>
+            matplotlib.pyplot.<br><br>
             Визуализации: boxplot, histogram, scatterplot, line plot.
         </code>
      </td>
@@ -67,11 +67,11 @@
      </td>
      <td>
         <code>
-            pandas<br>
-            math<br>
-            matplotlib.pyplot<br>
-            stats from scipy<br>
-            numpy<br><br>
+            pandas,<br>
+            math,<br>
+            matplotlib.pyplot,<br>
+            stats from scipy,<br>
+            numpy.<br><br>
             Визуализации: boxplot, histogram.
         </code>
      </td>
@@ -89,10 +89,10 @@
      </td>
      <td>
         <code>
-            pandas<br>
-            matplotlib.pyplot<br>
-            stats from scipy<br>
-            numpy<br><br>
+            pandas,<br>
+            matplotlib.pyplot,<br>
+            stats from scipy,<br>
+            numpy.<br><br>
             Визуализации: boxplot, histogram, line plot, group bar, scatterplot.
         </code>
      </td>
@@ -111,10 +111,10 @@
      </td>
      <td>
         <code>
-            pandas<br>
-            matplotlib.pyplot<br>
-            seaborn<br>
-            numpy<br><br>
+            pandas,<br>
+            matplotlib.pyplot,<br>
+            seaborn,<br>
+            numpy.<br><br>
             Визуализации: boxplot, histogram, line plot, heatmap, group bar, stacked bar.
         </code>
      </td>
@@ -134,12 +134,12 @@
      </td>
      <td>
         <code>
-            pandas<br>
-            matplotlib.pyplot<br>
-            matplotlib.lines<br>
-            numpy<br>
-            datetime<br>
-            scipy.stats
+            pandas,<br>
+            matplotlib.pyplot,<br>
+            matplotlib.lines,<br>
+            numpy,<br>
+            datetime,<br>
+            scipy.stats.
         </code>
      </td>
     </tr>
@@ -157,9 +157,9 @@
      </td>
      <td>
         <code>
-            pandas<br>
-            plotly.express<br>
-            re<br>
+            pandas,<br>
+            plotly.express,<br>
+            re.<br>
         </code>
      </td>
     </tr>
@@ -176,11 +176,11 @@
      </td>
      <td>
         <code>
-            pandas<br>
-            plotly.express<br>
-            numpy<br>
-            math<br>
-            proportions_ztest from statsmodels.stats.proportion
+            pandas,<br>
+            plotly.express,<br>
+            numpy,<br>
+            math,<br>
+            proportions_ztest from statsmodels.stats.proportion.
         </code>
      </td>
     </tr>
@@ -199,13 +199,13 @@
      </td>
      <td>
         <code>
-            pandas<br>
-            dash<br>
-            dash_core_components<br>
-            dash_html_components<br>
-            dash.dependencies<br>
-            datetime<br>
-            plotly.graph_objs
+            pandas,<br>
+            dash,<br>
+            dash_core_components,<br>
+            dash_html_components,<br>
+            dash.dependencies,<br>
+            datetime,<br>
+            plotly.graph_objs.
         </code>
      </td>
     </tr>
@@ -222,17 +222,17 @@
      </td>
      <td>
         <code>
-            pandas<br>
-            matplotlib.pyplot<br>
-            seaborn<br><br>
-            train_test_split from sklearn.model_selection<br>
-            StandardScaler from sklearn.preprocessing<br>
-            LogisticRegression from sklearn.linear_model<br>
-            RandomForestClassifier from sklearn.ensemble<br>
-            accuracy_score, precision_score, recall_score, f1_score, roc_auc_score from sklearn.metrics<br>
-            RandomizedSearchCV from sklearn.model_selection<br>
-            dendrogram, linkage from scipy.cluster.hierarchy<br>
-            KMeans from sklearn.cluster
+            pandas,<br>
+            matplotlib.pyplot,<br>
+            seaborn,<br><br>
+            train_test_split from sklearn.model_selection,<br>
+            StandardScaler from sklearn.preprocessing,<br>
+            LogisticRegression from sklearn.linear_model,<br>
+            RandomForestClassifier from sklearn.ensemble,<br>
+            accuracy_score, precision_score, recall_score, f1_score, roc_auc_score from sklearn.metrics,<br>
+            RandomizedSearchCV from sklearn.model_selection,<br>
+            dendrogram, linkage from scipy.cluster.hierarchy,<br>
+            KMeans from sklearn.cluster.
         </code>
      </td>
     </tr>
@@ -253,16 +253,16 @@
      </td>
      <td>
         <code>
-            pandas<br>
-            plotly.express<br>
-            numpy<br>
-            math<br>
-            proportions_ztest from statsmodels.stats.proportion<br><br>
-            create_engine from sqlalchemy<br><br>
-            datetime<br>
-            pyplot from matplotlib<br>
-            seaborn<br>
-            stats from scipy
+            pandas,<br>
+            plotly.express,<br>
+            numpy,<br>
+            math,<br>
+            proportions_ztest from statsmodels.stats.proportion,<br><br>
+            create_engine from sqlalchemy,<br><br>
+            datetime,<br>
+            pyplot from matplotlib,<br>
+            seaborn,<br>
+            stats from scipy.
         </code>
      </td>
     </tr>
